@@ -1,0 +1,34 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/isaac/ROS/fodbot_ws/install/sick_scan_xd/local/lib/python3.10/dist-packages",
+        "/home/isaac/ROS/fodbot_ws/build/nmea_navsat_driver/src",
+        "/home/isaac/ROS/fodbot_ws/install/nmea_navsat_driver/lib/python3.10/site-packages",
+        "/home/isaac/ROS/fodbot_ws/install/navigation_utilities/local/lib/python3.10/dist-packages",
+        "/home/isaac/ROS/fodbot_ws/install/mads_tractor/local/lib/python3.10/dist-packages",
+        "/home/isaac/ROS/fodbot_ws/install/inertial_sense_ros2/local/lib/python3.10/dist-packages",
+        "/home/isaac/ROS/fodbot_ws/install/custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/isaac/ROS/coverage_ws/build/opennav_coverage_demo",
+        "/home/isaac/ROS/coverage_ws/install/opennav_coverage_demo/lib/python3.10/site-packages",
+        "/home/isaac/ROS/coverage_ws/install/opennav_coverage_msgs/local/lib/python3.10/dist-packages",
+        "/home/isaac/Official_Tutorials/install/ros2_control_demo_testing/lib/python3.10/site-packages",
+        "/home/isaac/program_files/BehaviorTree.ROS2/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/isaac/ROS/fodbot_ws/install/sick_scan_xd/local/lib/python3.10/dist-packages",
+        "/home/isaac/ROS/fodbot_ws/build/nmea_navsat_driver/src",
+        "/home/isaac/ROS/fodbot_ws/install/nmea_navsat_driver/lib/python3.10/site-packages",
+        "/home/isaac/ROS/fodbot_ws/install/navigation_utilities/local/lib/python3.10/dist-packages",
+        "/home/isaac/ROS/fodbot_ws/install/mads_tractor/local/lib/python3.10/dist-packages",
+        "/home/isaac/ROS/fodbot_ws/install/inertial_sense_ros2/local/lib/python3.10/dist-packages",
+        "/home/isaac/ROS/fodbot_ws/install/custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/isaac/ROS/coverage_ws/build/opennav_coverage_demo",
+        "/home/isaac/ROS/coverage_ws/install/opennav_coverage_demo/lib/python3.10/site-packages",
+        "/home/isaac/ROS/coverage_ws/install/opennav_coverage_msgs/local/lib/python3.10/dist-packages",
+        "/home/isaac/Official_Tutorials/install/ros2_control_demo_testing/lib/python3.10/site-packages",
+        "/home/isaac/program_files/BehaviorTree.ROS2/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
