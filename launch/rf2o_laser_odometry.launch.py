@@ -29,6 +29,6 @@ def generate_launch_description():
                     'odom_frame_id' : 'odom',
                     'init_pose_from_topic' : '',
                     'freq' : 20.0,
-                    'use_sim_time' : True}],
+                    'use_sim_time' : False}],
             ),
     ])
